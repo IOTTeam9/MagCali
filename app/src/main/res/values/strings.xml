@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MagCali</string>
+    <string name="compass_image">나침반 이미지</string>
+    <string name="azimuth_label">방위각:</string>
+    <string name="degrees_symbol">°</string>
+    <string name="calibrated_azimuth_label">보정된 방위각:</string>
+    <string name="movement_label">이동 거리:</string>
+    <string name="x_movement_label">X:</string>
+    <string name="y_movement_label">Y:</string>
+    <string name="z_movement_label">Z:</string>
+    <string name="meters_symbol">m</string>
+    <string name="calibrate_button_label">보정하기</string>
+    <string name="time_change_label">시간 변화:</string>
+    <string name="seconds_symbol">초</string>
+</resources>
